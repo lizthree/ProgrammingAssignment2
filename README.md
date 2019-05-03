@@ -1,3 +1,5 @@
+Link to repo: https://github.com/lizthree/ProgrammingAssignment2
+
 ### Introduction
 
 This second programming assignment will require you to write an R
